@@ -1,0 +1,1 @@
+This is an example os Pygame using Mario Resources just for study purposes only.
